@@ -1,4 +1,6 @@
-Estas son los argumentos para el llamado del programa
+# Notas:
+Estos son los argumentos para el llamado del programa
+```
 Opciones:
       --help     Muestra ayuda                                        [booleano]
       --version  Muestra número de versión                            [booleano]
@@ -6,3 +8,4 @@ Opciones:
   -l, --listar   Especifica si se muestra la tabla en consola
                                                      [booleano] [defecto: false]
   -h, --hasta    Especifica hasta donde se quiere la tabla[número] [defecto: 10]
+  ```
